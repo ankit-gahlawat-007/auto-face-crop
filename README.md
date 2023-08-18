@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------
 
 **auto-face-crop detects and crops the face with some additonal features** <br>
-It was a pre-requisite for passing face image (a square image of L x L dimensions) for one of the project, so I uploaded the file here.  
+It was a pre-requisite for passing face image (a square image of L x L dimensions) for one of the project, so I uploaded the file to do that here.  
 
 It contains the following steps: <br>
 (Steps 1 and 2 can be skipped based on the requirements.)
