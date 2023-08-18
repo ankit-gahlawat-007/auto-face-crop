@@ -15,7 +15,7 @@ Reference: https://github.com/danielgatis/rembg
 
 **Step 2: Make the image square, by using white background** <br>
 
-**Step 3: Crop the image with detected face as face_percent of the total output image** <br>
+**Step 3: Detect the face and crop the image** <br>
 Reference: https://github.com/leblancfg/autocrop
 
 It outputs a 500 x 500 dimension image by default. It can be changed by adding suitable parameters to the Cropper class.
