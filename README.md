@@ -13,7 +13,7 @@ It contains the following steps: <br>
 **Step 1: Set white background for the image** <br>
 Reference: https://github.com/danielgatis/rembg
 
-**Step 2: Make the image square, by using white background** <br>
+**Step 2: Make the image square, by using white background on the extra edges** <br>
 
 **Step 3: Detect the face and crop the image** <br>
 Reference: https://github.com/leblancfg/autocrop
